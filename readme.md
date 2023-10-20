@@ -1,8 +1,9 @@
 # BFG - Blazingly Fast Graph
 
-The only purpose of this repository is to release binaries for the
-[bfg](https://github.com/sourcegraph/sourcegraph/tree/main/docker-images/syntax-highlighter/crates/bfg)
-crate in the sourcegraph/sourcegraph repository.
+> [!NOTE]  
+> Early Access Program - BFG project is not a supported product.
 
-> Early Access Program - BFG project is not a supported product
+The purpose of this repository is to host binary releases for "BFG", a code
+graph context engine that powers [Cody](https://sourcegraph.com/cody)
+
 
